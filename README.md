@@ -11,4 +11,4 @@ To install:<br>
 ⋅⋅1. type "node server.js"<br>
 ⋅⋅2. type "node event_bus.js"<br>
 ⋅⋅3. type "node module.js"<br>
-7. go to your internet browser and type this in address bar: "localhost:1337"<br>
+4. go to your internet browser and type this in address bar: "localhost:1337"<br>
